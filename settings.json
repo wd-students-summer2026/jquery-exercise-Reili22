@@ -1,20 +1,20 @@
 {
-  "name": "Foo Barstein",
-  "nyu_net_id": "fb1258",
-  "site_url": "http://i6.cims.nyu.edu/~fb1258",
+  "name": "Rei Li",
+  "nyu_net_id": "xl5871",
+  "site_url": "http://i6.cims.nyu.edu/~xl5871",
   "jquery_settings": {
     "content_change": {
-      "trigger_element_selector": "input#button1",
+      "trigger_element_selector": "img#sword_img2",
       "trigger_event": "mouseover",
-      "target_element_selector": "p#paragraph1"
+      "target_element_selector": "p#sword_caption"
     },
     "image_swap": {
-      "trigger_element_selector": "img#image1"
+      "trigger_element_selector": "img#sword_img2"
     },
     "animation": {
-      "trigger_element_selector": "input#button2",
+      "trigger_element_selector": "img.food_img",
       "trigger_event": "click",
-      "target_element_selector": "p#paragraph2"
+      "target_element_selector": "img.food_img"
     }
   }
 }
